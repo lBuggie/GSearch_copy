@@ -1,0 +1,22 @@
+nav{
+    position: absolute;
+    right: 27px;
+    top: 14px;
+}
+
+nav ul li{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#waffle{
+    height: 18px;
+    width: 18px;
+    background: white url(../images/waffle_light.png) no-repeat center center;
+    background-size: contain;
+}
+
+#avatar{
+    width: 32px;
+    height: 32px;
+}
